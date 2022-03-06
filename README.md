@@ -3,13 +3,12 @@ A repository that contains deep learning code and application.
 Dedicated for someone who wants to learn about deep learning and neural network.
 
 What you could expect from this repository :
+* Predictions pipeline.
 * Examples of neural network.
-* Neural Network in real life applications.
+* Example of time series prediction.
+* Example of natural language processing.
 * Example of predicting numbers with neural networks.
 * Example of image classification with neural networks.
-* Example of natural language processing.
-* Example of time series prediction.
-* Predictions pipeline.
 * Advanced algorithm such as LSTM, Mask R-CNN and YOLO.
 
 When you open this repository, pat yourself in the back since you are one step closer on understanding deep learning. 🥳
