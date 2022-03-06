@@ -11,6 +11,11 @@ What you could expect from this repository :
 * Example of image classification with neural networks.
 * Advanced algorithm such as LSTM, Mask R-CNN and YOLO.
 
+What you should not expect from this repository :
+* Data cleaning
+* Basic regression algorithm
+* Free voucher at home depot
+
 When you open this repository, pat yourself in the back since you are one step closer on understanding deep learning. 🥳
 
 ## Day 1, Hello World of Neural Network
