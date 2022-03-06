@@ -12,9 +12,9 @@ What you could expect from this repository :
 * Advanced algorithm such as LSTM, Mask R-CNN and YOLO.
 
 What you should not expect from this repository :
-* Data cleaning
-* Basic regression algorithm
-* Free voucher at home depot
+* Data cleaning.
+* Basic regression algorithm.
+* Free voucher at home depot.
 
 When you open this repository, pat yourself in the back since you are one step closer on understanding deep learning. 🥳
 
