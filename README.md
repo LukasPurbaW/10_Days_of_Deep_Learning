@@ -16,7 +16,7 @@ What you should not expect from this repository :
 * Basic regression algorithm.
 * Free voucher at home depot.
 
-When you open this repository, pat yourself in the back since you are one step closer on understanding deep learning. 🥳
+When you open this repository, pat yourself in the back since you are one step closer on understanding deep learning. 🥳  
 Buy me a coffee [ko-fi.com/lukaspurbaw](ko-fi.com/lukaspurbaw)
 
 ## Day 1, Hello World of Neural Network
