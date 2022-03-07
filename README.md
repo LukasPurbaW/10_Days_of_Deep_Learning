@@ -17,7 +17,9 @@ What you should not expect from this repository :
 * Free voucher at home depot.
 
 🥳 One step closer on understanding deep learning.   
-☕ Buy me a coffee [ko-fi.com/lukaspurbaw](ko-fi.com/lukaspurbaw)
+☕ Buy me a coffee  [ko-fi.com/lukaspurbaw](ko-fi.com/lukaspurbaw)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lukaspurbaw)
 
 ## Day 1, Hello World of Neural Network
 In day 1, you will create a model that only have 1 layer of neural network with 1 neuron, you will also predict a number with a model that you have created. [Start your journey by clicking this link.](https://colab.research.google.com/github/LukasPurbaW/100_Days_of_Deep_Learning/blob/main/Day_1_Hello_World_of_Neural_Network.ipynb)
