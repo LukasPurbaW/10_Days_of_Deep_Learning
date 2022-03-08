@@ -17,7 +17,7 @@ What you should not expect from this repository :
 * Free voucher at home depot.
 
 🥳 One step closer on understanding deep learning.   
-☕ Buy me a coffee  [ko-fi.com/lukaspurbaw](ko-fi.com/lukaspurbaw)
+☕ Buy me a coffee  [ko-fi.com/lukaspurbaw](ko-fi.com/lukaspurbaw)  
 🍣 Trakteer.id [trakteer.id/lukaspurbaw](https://trakteer.id/lukaspurbaw)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lukaspurbaw)
