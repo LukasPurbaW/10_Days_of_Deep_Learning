@@ -26,3 +26,6 @@ In day 1, you will create a model that only have 1 layer of neural network with 
 
 ## Day 2, Activation Function
 In day 2, types of activation functions will be introduced. Activation function is to create output by the weights of each neuron. [Start here](https://colab.research.google.com/github/LukasPurbaW/100_Days_of_Deep_Learning/blob/main/Day_2_Activation_Function.ipynb)
+
+## Day 3, Learning Rate and Gradient Descent
+In day 3, the process of learning and effects of learning rate value would be explained using dummy data and graphs. [Start here](https://colab.research.google.com/github/LukasPurbaW/100_Days_of_Deep_Learning/blob/main/Day_3_Learning_Rate_%26_Gradient_Descent.ipynb) 
