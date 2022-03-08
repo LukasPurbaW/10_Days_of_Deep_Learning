@@ -29,3 +29,10 @@ In day 2, types of activation functions will be introduced. Activation function 
 
 ## Day 3, Learning Rate and Gradient Descent
 In day 3, the process of learning and effects of learning rate value would be explained using dummy data and graphs. [Start here](https://colab.research.google.com/github/LukasPurbaW/100_Days_of_Deep_Learning/blob/main/Day_3_Learning_Rate_%26_Gradient_Descent.ipynb) 
+
+## Day 4, Simple Workflow for Using Neural Network
+In day 4, it's just a simple guideline on how to use neural network. [Start here](https://colab.research.google.com/github/LukasPurbaW/100_Days_of_Deep_Learning/blob/main/Day_4_Simple_Prediction_Pipeline_(No_code).ipynb)
+
+## Day 5, Using Neural Network for Classification
+In day 5, The implementation of neural network in classification whether a customers will quit being customer or not with a fictional bank data.
+ [Start here](https://colab.research.google.com/github/LukasPurbaW/100_Days_of_Deep_Learning/blob/main/Day_5_ANN_for_Classification.ipynb)
