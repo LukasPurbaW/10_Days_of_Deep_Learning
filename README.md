@@ -35,5 +35,9 @@ In day 3, the process of learning and effects of learning rate value would be ex
 In day 4, it's just a simple guideline on how to use neural network. [Start here](https://colab.research.google.com/github/LukasPurbaW/100_Days_of_Deep_Learning/blob/main/Day_4_Simple_Prediction_Pipeline_(No_code).ipynb)
 
 ### Day 5, Using Neural Network for Classification
-In day 5, you will predict whether a customers will stop using the bank product or not with a fictional bank data.
- [Start here](https://colab.research.google.com/github/LukasPurbaW/100_Days_of_Deep_Learning/blob/main/Day_5_ANN_for_Classification.ipynb)
+In day 5, you will predict whether a customers will stop using the bank product or not with a fictional bank data.  
+[Start here](https://colab.research.google.com/github/LukasPurbaW/100_Days_of_Deep_Learning/blob/main/Day_5_ANN_for_Classification.ipynb)
+ 
+### Day 6, Convolutional Neural Network
+In day 6, you will learn about what is convolutional neural network, and how does it works
+
