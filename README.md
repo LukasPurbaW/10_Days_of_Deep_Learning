@@ -50,7 +50,7 @@ In day 7, you will get a hands on how to classify images with CNN from the metho
 In day 8, you can learn about recurrent neural network, a neural network that can also store value from previous data. [Start here](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
 ### day 9. Long Short Term Memory (LSTM) Algorithm
-In day 9, you can learn more about LSTM, honestly the link is also as same as previous day, but here is an animation of LSTM algorithm. [Start here](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
+In day 9, you can learn more about LSTM, honestly the link is also as same as previous day, but here is an animation of LSTM algorithm. [Start here](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)  
 <img src="https://miro.medium.com/max/1400/1*goJVQs-p9kgLODFNyhl9zA.gif" height="360" />
 
 ### day 10, Stock Market Prediction with LSTM
